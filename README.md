@@ -1,0 +1,2 @@
+Interesting problem I found online. Given a class that that represents maps with lots of identical consective values using less memory by only recording the first pair of identical consecutive values. e.g. 1,A 2,A 3,B 4,B would be stored as 1,A  3,B.
+The problem is to create an assign function in the class that allows the user to change values in the interval map. Theres lots of commented tests in main and a display function in order to see how the code works.
